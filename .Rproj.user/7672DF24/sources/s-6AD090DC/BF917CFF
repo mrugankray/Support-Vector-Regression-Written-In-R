@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1527368113554.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BF917CFF",
+    "lastKnownWriteTime" : 1527369677,
+    "last_content_update" : 1527369677367,
+    "path" : "/media/mrugank/626CB0316CB00239/for development purpose only/R/machine learning/SVR regressor/SVR regression.R",
+    "project_path" : "SVR regression.R",
+    "properties" : {
+        "cursorPosition" : "15,30",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
